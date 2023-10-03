@@ -1,1 +1,1 @@
-# Pokedex-Vue-TailwindCSS
+# Pokedex
